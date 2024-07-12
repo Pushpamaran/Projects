@@ -1,0 +1,14 @@
+body{
+    background-color: darkgrey;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.5);
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+}

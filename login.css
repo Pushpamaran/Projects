@@ -1,0 +1,64 @@
+body{
+    background-image: url(/picture_folder/vihaan_bg2.JPG);
+}
+#welcome h1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.5);
+    width: fit-content;
+    margin: auto;
+}
+#outer{
+    width: 400px;
+    margin: 10px auto;
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+}
+#outer h1{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+form #label{
+    display: block;
+    color: white;
+    font-size: 25px;
+}
+form #name,#email,#password{
+    width: 400px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+form #btn{
+    text-align: center;
+    padding-top: 20px;
+}
+button{
+    font-size: 25px;
+    color: darkgreen;
+    border-radius: 10px;
+    padding: auto;
+}
+#home{
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.5);
+    max-width: fit-content;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
